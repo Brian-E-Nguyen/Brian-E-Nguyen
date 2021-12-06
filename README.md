@@ -74,3 +74,10 @@ Feel free to check out my work!
 If you enjoy my work, please do consider buying me cup(s) of coffee! Your donation will financially support me and keep me motivated in my work!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M55WZLN)
+
+## 📊 My GitHub Data:
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Brian-E-Nguyen&show_icons=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Brian-E-Nguyen&" alt="soumyajit" />
+</div>
