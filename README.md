@@ -69,6 +69,8 @@ Feel free to check out my work!
  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
  </p>
 
+<!-- TODO: Social links -->
+
 ## ☕ Donate
 
 If you enjoy my work, please do consider buying me cup(s) of coffee! Your donation will financially support me and keep me motivated in my work!
