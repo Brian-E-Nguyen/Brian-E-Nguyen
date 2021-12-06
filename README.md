@@ -4,7 +4,12 @@
 
 I am a recent computer science graduate from California State University, Long Beach. I'm an aspiring front-end developer who loves making websites look beautiful! I'm currently learning React and Vue, and also working on various projects
 
-## Donate 
+Feel free to check out my work!
+
+- [My Website (brianenguyen.com)](https://www.brianenguyen.com/)
+- [CSULB Tzu Ching (csulbtzuching.org)](https://www.csulbtzuching.org/)
+
+## ☕ Donate 
 
 If you enjoy my work, please do consider buying me cup(s) of coffee! Your donation will financially support me and keep me motivated in my work!
 
