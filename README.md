@@ -18,7 +18,8 @@ Feel free to check out my work!
 <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
 <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" height="25px"/>
-<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
+<img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" height="25px"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=ffdd54" height="25px"/>
 <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"  height="25px"/>
 <img alt="Latex" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"  height="25px"/>
 </p>
@@ -60,6 +61,13 @@ Feel free to check out my work!
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
 </p>
 
+### Operating Systems
+
+<p>
+  <img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" height="25px"/>
+  <img alt="Windows 10" src="https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="25px"/>
+</p>
+
 ### Other
 
 <p>
@@ -81,7 +89,7 @@ Feel free to check out my work!
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="25px"/>
   </a>
   <a href="https://discordapp.com/users/357270934614179851">
-    <img alt="Discord" src="https://img.shields.io/badge/%3CBuraiyen1998%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" height="25px"/>
+    <img alt="Discord" src="https://img.shields.io/badge/%3CBuraiyen%231998%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" height="25px"/>
   </a>
 </p>
 
