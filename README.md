@@ -65,10 +65,24 @@ Feel free to check out my work!
 <p>
 <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" height="25px"/>
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
- <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
+<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
  </p>
 
 <!-- TODO: Social links -->
+
+## 💙 Connect With Me
+
+<p>
+<a href="https://www.linkedin.com/in/brian-edison-nguyen/">
+    <img alt="Brian E. Nguyen" src="https://img.shields.io/badge/-brianenguyen.com-black" height="25px"/>
+  </a>
+  <a href="https://www.linkedin.com/in/brian-edison-nguyen/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="25px"/>
+  </a>
+  <a href="https://discordapp.com/users/357270934614179851">
+    <img alt="Discord" src="https://img.shields.io/badge/%3CBuraiyen1998%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" height="25px"/>
+  </a>
+</p>
 
 ## ☕ Donate
 
