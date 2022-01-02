@@ -103,5 +103,5 @@ If you enjoy my work, please do consider buying me cup(s) of coffee! Your donati
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Brian-E-Nguyen&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Brian-E-Nguyen&" alt="soumyajit" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Brian-E-Nguyen&" alt="" />
 </div>
