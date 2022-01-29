@@ -102,6 +102,7 @@ If you enjoy my work, please do consider buying me cup(s) of coffee! Your donati
 ## 📊 My GitHub Data:
 
 <div align="center">
+ My goal is to have a 365-day streak of commits. This will help me stay motivated in what I do
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Brian-E-Nguyen&show_icons=true" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Brian-E-Nguyen&" alt="" />
 </div>
