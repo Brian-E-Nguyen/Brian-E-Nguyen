@@ -2,11 +2,15 @@
 
 ## 🤓 About Me
 
-- I am a recent graduate from California State University, Long Beach with a bachelor's degree in computer science
-- I aspire to be a frontend developer! I am currently learning about frontend technologies such as React.js and Vue
-- My website is [brianegnuyen.com](https://brianenguyen.com) where I showcase my projects and information about me
-- I am a Linux enthusiast and I support the free software movement
-- When I am not programming, I enjoy video gaming, watching pro-wrestling, listening to music, and playing on the drums
+🏫 I am a recent graduate from California State University, Long Beach with a bachelor's degree in computer science
+
+💻 I aspire to be a frontend developer! I am currently learning about frontend technologies such as React.js and Vue
+
+🌐 My website is [brianegnuyen.com](https://brianenguyen.com) where I showcase my projects and information about me
+
+🐧 I am a Linux enthusiast and I support the free software movement
+
+🌇 When I am not programming, I enjoy video gaming, photography, watching pro-wrestling, listening to music, and playing on the drums
 
 ## 💙 Connect With Me
 
