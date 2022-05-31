@@ -6,7 +6,7 @@
 
 💻 I aspire to be a frontend developer! I am currently learning about frontend technologies such as React.js and Vue
 
-🌐 My website is [brianegnuyen.com](https://brianenguyen.com) where I showcase my projects and information about me
+🌐 My website is [brianenguyen.com](https://brianenguyen.com) where I showcase my projects and information about me
 
 🐧 I am a Linux enthusiast and I support the free software movement
 
