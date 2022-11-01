@@ -12,7 +12,7 @@
 
 🐧 I am a Linux enthusiast and I support the free software movement
 
-🌇 When I am not programming, I enjoy video gaming, photography, watching pro-wrestling, listening to music, and playing on the drums
+🌇 When I am not programming, I enjoy video gaming, photography, watching pro-wrestling, listening to music, walking on the beach while the sun is setting, and playing on the drums
 
 ## 💙 Connect With Me
 
