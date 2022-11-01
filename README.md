@@ -1,5 +1,7 @@
 <h1 align="center">Hello there!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Brian Nguyen</h1>
 
+![Profile views](https://gpvc.arturio.dev/Buraiyen)
+
 ## 🤓 About Me
 
 🏫 I am a recent graduate from California State University, Long Beach with a bachelor's degree in computer science
