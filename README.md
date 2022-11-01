@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./readme_banner.png" width="100%" />
+</p>
+
 <h1 align="center">Hello there!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Brian Nguyen</h1>
 
 ![Profile views](https://gpvc.arturio.dev/Buraiyen)
