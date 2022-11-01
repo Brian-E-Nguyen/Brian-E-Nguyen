@@ -4,7 +4,7 @@
 
 ## 🤓 About Me
 
-🏫 I am a recent graduate from California State University, Long Beach with a bachelor's degree in computer science
+🏫 I am a recent graduate from California State University, Long Beach with a bachelor's degree in computer science. I am currently a student enrolled in BloomTech's full-stack development course
 
 💻 I aspire to be a frontend developer! I am currently learning about frontend technologies such as React.js and Vue
 
