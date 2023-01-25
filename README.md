@@ -25,12 +25,12 @@
     <img alt="Brian E. Nguyen" src="https://img.shields.io/badge/-brianenguyen.com-black" height="25px"/>
   </a>
   <a href="mailto:brian.edison.nguyen@gmail.com">
-    <img alt="Brian E. Nguyen" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25px"/>
+    <img alt="brian.edison.nguyen@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25px"/>
   </a>
   <a href="https://www.linkedin.com/in/brian-e-nguyen/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="25px"/>
+    <img alt="linkedin.com/in/brian-e-nguyen@gmail.com" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="25px"/>
   </a>
   <a href="https://discordapp.com/users/357270934614179851">
-    <img alt="Discord" src="https://img.shields.io/badge/%3CBuraiyen%231998%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" height="25px"/>
+    <img alt="Discord @ Buraiyen#1998" src="https://img.shields.io/badge/%3CBuraiyen%231998%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" height="25px"/>
   </a>
 </p>
