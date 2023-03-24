@@ -14,9 +14,9 @@
 
 🌐 My website is [brianenguyen.com](https://brianenguyen.com) where I showcase my projects and information about me
 
-🐧 I am a Linux enthusiast and I support the free software movement
+🐧 I am a Linux enthusiast and I am an active and financial supporter of online freedom and privacy. This includes Wikipedia, the Free Software Movement, and the Electronic Frontier Foundation
 
-🌇 When I am not programming, I enjoy video gaming, photography, watching pro-wrestling, listening to music, walking on the beach while the sun is setting, and playing on the drums
+🌇 When I am not programming, I enjoy video gaming, photography, volunteering, watching pro-wrestling, listening to music, walking on the beach while the sun is setting, and playing on the drums
 
 ## 💙 Connect With Me
 
