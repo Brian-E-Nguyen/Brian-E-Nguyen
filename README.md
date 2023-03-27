@@ -8,9 +8,37 @@
 
 ## 🤓 About Me
 
-🏫 I am a recent graduate from California State University, Long Beach with a bachelor's degree in computer science. I am currently working at Code Ninjas as an assistant center director and the lead coding instructor. I am also currently a student enrolled in BloomTech's full-stack development course
+### Experiences
 
-💻 I aspire to be a frontend developer! I love frontend development because it allows me to express my creativity in the applications that I develop
+I am currently serving as the Lead Code Instructor and Assistant Center Director
+at Code Ninjas. In these roles, I am responsible for overseeing student success
+and center management. My primary objective is to ensure that every student
+receives a high-quality education to excel in their programming education.
+Additionally, I provide mentorship, coaching, and support to both students and
+fellow instructors. Lastly, I strive to create a positive and conducive learning
+environment for all.
+
+### Education
+
+📚 I am a recent graduate from California State University, Long Beach with a
+bachelor's degree in computer science. I also recently graduated from Bloomtech
+with a certificate in full-stack development
+
+### What I'm looking for
+
+🖥️ I aspire to be a frontend developer or a full-stack developer! I love these
+roles because they allow me to express my creativity in the applications that I
+develop. If you work on an awesome team and are looking for your next teammate,
+I'd love to hear from you
+
+### Blogs
+
+📔 I like to write blogs occasionally. Here are some that you might enjoy:
+
+- [Optimizing Images for Your Website](https://brianenguyen.com/optimizing-images)
+- [Volunteering with the Tzu Chi Foundation](https://brianenguyen.com/volunteering-with-tzu-chi)
+
+### Interests / Additional Information
 
 🌐 My website is [brianenguyen.com](https://brianenguyen.com) where I showcase my projects and information about me
 
