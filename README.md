@@ -18,6 +18,9 @@ Additionally, I provide mentorship, coaching, and support to both students and
 fellow instructors. Lastly, I strive to create a positive and conducive learning
 environment for all.
 
+I have trained over 1,000 students in video game and web development utilizing
+various programming languages such as HTML, CSS, JavaScript, Lua, and C# Unity
+
 ### Education
 
 📚 I am a recent graduate from California State University, Long Beach with a
