@@ -27,13 +27,6 @@ various programming languages such as HTML, CSS, JavaScript, Lua, and C# Unity
 bachelor's degree in computer science. I also recently graduated from Bloomtech
 with a certificate in full-stack development
 
-### What I'm looking for
-
-🖥️ I aspire to be a frontend developer or a full-stack developer! I love these
-roles because they allow me to express my creativity in the applications that I
-develop. If you work on an awesome team and are looking for your next teammate,
-I'd love to hear from you
-
 ### Blogs
 
 📔 I like to write blogs occasionally. Here are some that you might enjoy:
