@@ -4,11 +4,9 @@
 
 <h1 align="center">Hello there!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Brian Nguyen</h1>
 
-![Profile views](https://gpvc.arturio.dev/Buraiyen)
-
 ## 🤓 About Me
 
-### Experiences
+[![wakatime](https://wakatime.com/badge/user/e7b78ed9-a757-4e8b-befd-fd268e9ab61f.svg)](https://wakatime.com/@e7b78ed9-a757-4e8b-befd-fd268e9ab61f)
 
 I am currently serving as the Lead Code Instructor and Assistant Center Director
 at Code Ninjas. In these roles, I am responsible for overseeing student success
@@ -21,6 +19,8 @@ environment for all.
 I have trained over 1,000 students in video game and web development utilizing
 various programming languages such as HTML, CSS, JavaScript, Lua, and C# Unity
 
+I will soon transition into a Web Developer role at IdeaBank Marketing. This role allows me to work in a team to develop high-quality websites for clients that will not only fulfill but also exceed their expectations
+
 ### Education
 
 📚 I am a recent graduate from California State University, Long Beach with a
@@ -31,6 +31,7 @@ with a certificate in full-stack development
 
 📔 I like to write blogs occasionally. Here are some that you might enjoy:
 
+- [Writing My Blogs with Org Mode](https://brianenguyen.com/blog/blogging-with-org-mode)
 - [Optimizing Images for Your Website](https://brianenguyen.com/optimizing-images)
 - [Volunteering with the Tzu Chi Foundation](https://brianenguyen.com/volunteering-with-tzu-chi)
 
