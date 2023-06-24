@@ -8,18 +8,20 @@
 
 [![wakatime](https://wakatime.com/badge/user/e7b78ed9-a757-4e8b-befd-fd268e9ab61f.svg)](https://wakatime.com/@e7b78ed9-a757-4e8b-befd-fd268e9ab61f)
 
-I am currently serving as the Lead Code Instructor and Assistant Center Director
-at Code Ninjas. In these roles, I am responsible for overseeing student success
-and center management. My primary objective is to ensure that every student
+I will soon transition into a Web Developer role at IdeaBank Marketing. This
+role allows me to work in a team to develop high-quality websites for clients
+that will not only fulfill but also exceed their expectations
+
+I formerly served as the Lead Code Instructor and Assistant Center Director at
+Code Ninjas. In these roles, I was responsible for overseeing student success
+and center management. My primary objective was to ensure that every student
 receives a high-quality education to excel in their programming education.
-Additionally, I provide mentorship, coaching, and support to both students and
+Additionally, I provided mentorship, coaching, and support to both students and
 fellow instructors. Lastly, I strive to create a positive and conducive learning
 environment for all.
 
 I have trained over 1,000 students in video game and web development utilizing
 various programming languages such as HTML, CSS, JavaScript, Lua, and C# Unity
-
-I will soon transition into a Web Developer role at IdeaBank Marketing. This role allows me to work in a team to develop high-quality websites for clients that will not only fulfill but also exceed their expectations
 
 ### Education
 
