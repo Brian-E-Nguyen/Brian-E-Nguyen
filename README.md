@@ -1,8 +1,7 @@
-<p align="center">
+<div align="center">
   <img src="./banner.png" width="100%" />
-</p>
-
-<h1 align="center">Hello there!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Brian Nguyen</h1>
+  <h1>Hello there!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Brian Nguyen</h1>
+</div>
 
 ## 🤓 About Me
 
@@ -33,15 +32,20 @@ with a certificate in full-stack development
 
 📔 I like to write blogs occasionally. Here are some that you might enjoy:
 
+- [Hello Nebraska!](https://brianenguyen.com/blog/hello-nebraska)
 - [Writing My Blogs with Org Mode](https://brianenguyen.com/blog/blogging-with-org-mode)
 - [Optimizing Images for Your Website](https://brianenguyen.com/optimizing-images)
 - [Volunteering with the Tzu Chi Foundation](https://brianenguyen.com/volunteering-with-tzu-chi)
 
 ### Interests / Additional Information
 
-🐧 I am a Linux enthusiast and I am an active and financial supporter of online freedom and privacy. This includes Wikipedia, the Free Software Movement, and the Electronic Frontier Foundation
+🐧 I am a Linux enthusiast and I am an active and financial supporter of online
+freedom and privacy. This includes Wikipedia, the Free Software Movement, and
+the Electronic Frontier Foundation
 
-🌇 When I am not programming, I enjoy video gaming, photography, volunteering, watching pro-wrestling, listening to music, walking on the beach while the sun is setting, and playing on the drums
+🌇 When I am not programming, I enjoy video gaming, photography, reading,
+volunteering, watching pro-wrestling, listening to music, walking on the beach
+while the sun is setting, and playing on the drums
 
 ## 💙 Connect With Me
 
